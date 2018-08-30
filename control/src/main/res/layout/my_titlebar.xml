@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:background="@color/colorPrimary">
+
+    <LinearLayout
+        android:id="@+id/title_back"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp">
+        <ImageView android:layout_width="230dp"
+                   android:src="@mipmap/tencent_icon"
+                   android:layout_height="50dp"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/title_center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="房间管理列表"
+        android:textColor="@android:color/white"
+        android:textSize="21dp"
+    />
+
+    <LinearLayout
+        android:id="@+id/titlebar_tool"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/ll_push_click"
+        android:gravity="center">
+        <View
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:background="@mipmap/manage"
+        />
+    </LinearLayout>
+
+</RelativeLayout>

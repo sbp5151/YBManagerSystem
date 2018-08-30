@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">影吧管理系统</string>
+    <string name="confirm">确定</string>
+    <string name="room_root">房间初始化设置</string>
+    <string name="room_root_again">房间信息更改</string>
+    <string name="input_full">请设置房间信息</string>
+    <string name="passwrod_error">密码错误</string>
+    <string name="description">my_key_service</string>
+    <string name="hint">提示</string>
+</resources>

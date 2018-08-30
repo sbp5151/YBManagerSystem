@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3a4db6</color>-->
+    <color name="colorPrimary">#2f8dde</color>
+    <color name="colorPrimaryDark">#3072b3</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--room-->
+    <color name="room_grey">#808484</color>
+    <color name="room_orange">#f9e97033</color>
+    <color name="room_blue">#3171e6</color>
+    <color name="room_green">#f917f263</color>
+    <color name="room_black">#f9333533</color>
+
+    <color name="click_grey">#f9838785</color>
+    <color name="click_grey2">#f9565759</color>
+    <!--分割线灰-->
+    <color name="line_grey">#f9565958</color>
+    <color name="dialog_backgroud">#00000000</color>
+    <color name="colorLine">#B5B7BB</color>
+
+</resources>

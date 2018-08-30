@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="room_item_size">22dp</dimen>
+    <dimen name="room_item_size2">20dp</dimen>
+
+    <dimen name="dialog_width">390dp</dimen>
+    <dimen name="dialog_title_height">60dp</dimen>
+    <dimen name="dialog_content_height">120dp</dimen>
+    <dimen name="dialog_content_height2">150dp</dimen>
+    <dimen name="dialog_bottom_height">65dp</dimen>
+    <dimen name="dialog_title_size">24dp</dimen>
+    <dimen name="dialog_content_size">20dp</dimen>
+    <dimen name="dialog_button_size">18dp</dimen>
+</resources>

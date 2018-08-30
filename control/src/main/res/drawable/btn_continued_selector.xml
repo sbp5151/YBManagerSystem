@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false">
+
+        <shape>
+            <solid android:color="@color/room_green"/>
+            <corners android:radius="4dp"/>
+            <!-- 描边 -->
+            <stroke
+                android:width="1dp"
+                android:color="#504d4d" />
+        </shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/click_grey"/>
+            <corners android:radius="4dp"/>
+            <!-- 描边 -->
+            <stroke
+                android:width="1dp"
+                android:color="#504d4d" />
+        </shape>
+    </item>
+</selector>

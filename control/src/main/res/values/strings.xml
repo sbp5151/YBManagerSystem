@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">影吧管理系统</string>
+    <string name="open_room_title">设置房间信息</string>
+    <string name="confirm">确定</string>
+    <string name="continued_title">续时</string>
+    <string name="hint">提示</string>
+    <string name="cancel">取消</string>
+    <string name="room_root">输入管理密码</string>
+</resources>
